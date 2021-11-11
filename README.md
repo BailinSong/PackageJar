@@ -15,11 +15,9 @@
 - [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
 
 <!-- Plugin description -->
-This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
+简单易用的打包工具，安装后，右键src下的任意目录，在菜单中点击Package Jar按钮，按说明即可导出相应的Jar!<br><br>
 
-This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
-
-To keep everything working, do not remove `<!-- ... -->` sections. 
+A Simple tool to package jar, after the installation, call out the mouse menu on the directory UNDER src, click the Jars Package button, than export the Jar!
 <!-- Plugin description end -->
 
 ## Installation
