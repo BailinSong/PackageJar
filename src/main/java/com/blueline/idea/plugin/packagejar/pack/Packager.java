@@ -1,6 +1,6 @@
 
 
-package com.github.bailinsong.packagejar.pack;
+package com.blueline.idea.plugin.packagejar.pack;
 
 import com.intellij.openapi.compiler.CompileStatusNotification;
 

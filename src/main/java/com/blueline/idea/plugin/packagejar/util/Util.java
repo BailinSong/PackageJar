@@ -1,4 +1,4 @@
-package com.github.bailinsong.packagejar.util;
+package com.blueline.idea.plugin.packagejar.util;
 
 import com.intellij.openapi.module.Module;
 import com.intellij.openapi.module.ModuleManager;

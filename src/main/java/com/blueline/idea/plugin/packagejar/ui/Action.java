@@ -1,4 +1,4 @@
-package com.github.bailinsong.packagejar.ui;
+package com.blueline.idea.plugin.packagejar.ui;
 
 import com.intellij.openapi.actionSystem.*;
 import com.intellij.openapi.compiler.JavaCompilerBundle;

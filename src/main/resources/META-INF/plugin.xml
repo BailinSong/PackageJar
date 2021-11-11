@@ -1,12 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.bailinsong.packagejar</id>
+    <id>com.blueline.idea.plugin.packagejar</id>
     <name>PackageJar</name>
     <vendor email="bailinsong@me.com" url="https://github.com/BailinSong/PackageJar">bailinsong</vendor>
     <depends>com.intellij.modules.java</depends>
 
     <actions>
-            <action id="PackageJar" class="com.github.bailinsong.packagejar.ui.Action" text="PackageJar"
+            <action id="PackageJar" class="com.blueline.idea.plugin.packagejar.ui.Action" text="PackageJar"
                     description="Package to Jar">
                 <add-to-group group-id="ProjectViewCompileGroup" anchor="after" relative-to-action="Compile"/>
             </action>

@@ -1,10 +1,10 @@
-package com.github.bailinsong.packagejar.ui;
+package com.blueline.idea.plugin.packagejar.ui;
 
-import com.github.bailinsong.packagejar.message.Messages;
-import com.github.bailinsong.packagejar.pack.Packager;
-import com.github.bailinsong.packagejar.pack.impl.AllPacker;
-import com.github.bailinsong.packagejar.pack.impl.EachPacker;
-import com.github.bailinsong.packagejar.util.Util;
+import com.blueline.idea.plugin.packagejar.message.Messages;
+import com.blueline.idea.plugin.packagejar.pack.Packager;
+import com.blueline.idea.plugin.packagejar.pack.impl.AllPacker;
+import com.blueline.idea.plugin.packagejar.pack.impl.EachPacker;
+import com.blueline.idea.plugin.packagejar.util.Util;
 import com.intellij.openapi.actionSystem.CommonDataKeys;
 import com.intellij.openapi.actionSystem.DataContext;
 import com.intellij.openapi.actionSystem.LangDataKeys;

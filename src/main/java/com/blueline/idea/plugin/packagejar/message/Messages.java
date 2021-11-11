@@ -1,6 +1,6 @@
 
 
-package com.github.bailinsong.packagejar.message;
+package com.blueline.idea.plugin.packagejar.message;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.wm.ToolWindow;
