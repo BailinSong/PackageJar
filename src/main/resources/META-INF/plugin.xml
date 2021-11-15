@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.blueline.idea.plugin.packagejar</id>
     <name>PackageJar</name>
-    <vendor email="bailinsong@me.com" url="https://github.com/BailinSong/PackageJar">bailinsong</vendor>
+    <vendor email="bailinsong@me.com" url="https://github.com/BailinSong/PackageJar">BlueLine</vendor>
     <depends>com.intellij.modules.java</depends>
 
     <actions>
