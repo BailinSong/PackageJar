@@ -1,5 +1,5 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
-<idea-plugin>
+<idea-plugin require-restart="true">
     <id>com.blueline.idea.plugin.packagejar</id>
     <name>PackageJar</name>
     <vendor email="bailinsong@me.com" url="https://github.com/BailinSong/PackageJar">BlueLine</vendor>
